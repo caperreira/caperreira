@@ -2,6 +2,8 @@
 
 
 - 🔭 Eu trabalho na empresa Gelt
-- 🌱 Eu estou aprendendo HTML, CSS, JavaScript e C#
+- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e C#
+-     Tenho como objetivo me tornar um Devloper.
+
 - 📫 Pode me localizar acacio_perreira
 
